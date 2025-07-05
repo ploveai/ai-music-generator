@@ -114,6 +114,20 @@ Generate AI music across all genres:
   - Extended licensing
   - Priority AI support
 
+## Regional Hubs
+Access localized experiences:
+English: https://easymusic.ai
+Chinese: https://easymusic.ai/zh
+Japanese: https://easymusic.ai/ja
+Korean: https://easymusic.ai/ko
+Russian: https://easymusic.ai/ru
+Arabic: https://easymusic.ai/ar
+Spanish: https://easymusic.ai/es
+French: https://easymusic.ai/fr
+German: https://easymusic.ai/de
+Portuguese: https://easymusic.ai/pt
+Italian: https://easymusic.ai/it
+
 ## 📧 Contact AI Music Support
 
 Email: support@easymusic.ai
